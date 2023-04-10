@@ -1,7 +1,7 @@
 # Awesome-Anything
 [![Awesome Anything](https://img.shields.io/badge/Awesome-Anything-blue)](https://github.com/topics/awesome)
 
-A curated list of **general AI methods for Anything**: AnyObject, AnyGeneration, AnyModel, etc.
+A curated list of **general AI methods for Anything**: AnyObject, AnyGeneration, AnyModel, AnyTask, etc.
 
 Contributions are welcome!
 
