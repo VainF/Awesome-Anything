@@ -1,7 +1,7 @@
 # Awesome-Anything
 [![Awesome Anything](https://img.shields.io/badge/Awesome-Anything-blue)](https://github.com/topics/awesome)
 
-A curated list of **general AI methods for Anything**: AnyObject, AnyGeneration, AnyModel, etc. 
+A curated list of **general AI methods for Anything**: AnyObject, AnyGeneration, AnyModel, etc.
 
 Contributions are welcome!
 
@@ -33,6 +33,11 @@ Contributions are welcome!
 | [[**Torch-Pruning (Project)**](https://github.com/VainF/Torch-Pruning)] <br> [**DepGraph: Towards Any Structural Pruning**](https://arxiv.org/abs/2301.12900) <br> *Gongfan Fang, Xinyin Ma, Mingli Song, Michael Bi Mi, Xinchao Wang* | ![intro](https://github.com/VainF/Torch-Pruning/raw/master/assets/intro.png) | [[Github](https://github.com/VainF/Torch-Pruning)] <br> [[Demo](https://colab.research.google.com/drive/1TRvELQDNj9PwM-EERWbF3IQOyxZeDepp?usp=sharing)] |
 | [[**Only Train Once (Project)**](https://github.com/tianyic/only_train_once)] <br> [**OTOv2: Automatic, Generic, User-Friendly**](https://openreview.net/pdf?id=7ynoX1ojPMt) <br> *Tianyi Chen, Luming Liang, Tianyu Ding, Ilya Zharkov* | ![intro](https://user-images.githubusercontent.com/8930611/230513048-e07b09a2-b29b-49ad-a47f-52630337ab2a.png) | [[Github](https://github.com/tianyic/only_train_once)] |
 | [[**Deep Model Reassembly (Project)**](https://github.com/Adamdad/DeRy)] <br> [**Deep Model Reassembly**](https://openreview.net/pdf?id=7ynoX1ojPMt) <br> *Xingyi Yang, Daquan Zhou, Songhua Liu, Jingwen Ye, Xinchao Wang* | ![intro](https://github.com/Adamdad/DeRy/raw/main/assets/pipeline.png) | [[Github](https://github.com/Adamdad/DeRy)] <br> [[Page](https://adamdad.github.io/dery/)] |
+
+## AnyTask
+| Titile & Authors | Intro | Useful Links |
+|:----|  :----: | :---:|
+| [[**X-Decoder (Project)**](https://github.com/microsoft/X-Decoder/)] <br> [**Generalized Decoding for Pixel, Image and Language**](https://arxiv.org/abs/2212.11270) <br> *Xueyan Zou, Zi-Yi Dou, Jianwei Yang, Zhe Gan, Linjie Li, Chunyuan Li, Xiyang Dai, Harkirat Behl, Jianfeng Wang, Lu Yuan, Nanyun Peng, Lijuan Wang, Yong Jae Lee, Jianfeng Gao* | ![intro](https://user-images.githubusercontent.com/11957155/210801832-c9143c42-ef65-4501-95a5-0d54749dcc52.gif)  | [[Github]](https://github.com/microsoft/X-Decoder/) <br> [[Page]](https://x-decoder-vl.github.io) <br> [[Demo]](https://huggingface.co/spaces/xdecoder/Demo)  |
 
 ## AnyX
 
