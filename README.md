@@ -32,7 +32,7 @@ Contributions are welcome!
 
 
 ## AnyModel
-| Titile & Authors | Intro | Useful Links |
+| Title & Authors | Intro | Useful Links |
 |:----|  :----: | :---:|
 | [**HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace**](https://arxiv.org/abs/2303.17580) <br> *Yongliang Shen, Kaitao Song, Xu Tan, Dongsheng Li, Weiming Lu, Yueting Zhuang* <br> Preprint'23 <br><br> [[**Jarvis (Project)**](https://github.com/microsoft/JARVIS)] |  <img  src="https://github.com/microsoft/JARVIS/raw/main/assets/overview.jpg"><img> | [[Github]](https://github.com/microsoft/JARVIS) <br> [[Demo]](https://huggingface.co/spaces/microsoft/HuggingGPT) |
 | [**TaskMatrix.AI: Completing Tasks by Connecting Foundation Models with Millions of APIs**](https://arxiv.org/abs/2303.16434) <br> *Yaobo Liang, Chenfei Wu, Ting Song, Wenshan Wu, Yan Xia, Yu Liu, Yang Ou, Shuai Lu, Lei Ji, Shaoguang Mao, Yun Wang, Linjun Shou, Ming Gong, Nan Duan* Preprint'23 | ![intro](https://github.com/microsoft/visual-chatgpt/raw/main/assets/overview.png) | [[Github](https://github.com/microsoft/visual-chatgpt/tree/main/TaskMatrix.AI)] |
@@ -42,7 +42,7 @@ Contributions are welcome!
 | [**Deep Model Reassembly**](https://arxiv.org/abs/2210.17409) <br> *Xingyi Yang, Daquan Zhou, Songhua Liu, Jingwen Ye, Xinchao Wang* <br> NeurIPS'22 <br><br> [[**Deep Model Reassembly (Project)**](https://github.com/Adamdad/DeRy)] <br>  | ![intro](https://github.com/Adamdad/DeRy/raw/main/assets/pipeline.png) | [[Github](https://github.com/Adamdad/DeRy)] <br> [[Page](https://adamdad.github.io/dery/)] |
 
 ## AnyTask
-| Titile & Authors | Intro | Useful Links |
+| Title & Authors | Intro | Useful Links |
 |:----|  :----: | :---:|
 | [**Generalized Decoding for Pixel, Image and Language**](https://arxiv.org/abs/2212.11270) <br> *Xueyan Zou, Zi-Yi Dou, Jianwei Yang, Zhe Gan, Linjie Li, Chunyuan Li, Xiyang Dai, Harkirat Behl, Jianfeng Wang, Lu Yuan, Nanyun Peng, Lijuan Wang, Yong Jae Lee, Jianfeng Gao* <br> CVPR'23 <br><br> [[**X-Decoder (Project)**](https://github.com/microsoft/X-Decoder/)] | ![intro](https://user-images.githubusercontent.com/11957155/210801832-c9143c42-ef65-4501-95a5-0d54749dcc52.gif)  | [[Github]](https://github.com/microsoft/X-Decoder/) <br> [[Page]](https://x-decoder-vl.github.io) <br> [[Demo]](https://huggingface.co/spaces/xdecoder/Demo)  |
 | [**Pre-Trained Image Processing Transformer**]() <br> *Chen, Hanting and Wang, Yunhe and Guo, Tianyu and Xu, Chang and Deng, Yiping and Liu, Zhenhua and Ma, Siwei and Xu, Chunjing and Xu, Chao and Gao, Wen* <br> CVPR'21 <br><br> [[**Pretrained-IPT (Project)**](https://github.com/huawei-noah/Pretrained-IPT)] | ![intro](https://github.com/huawei-noah/Pretrained-IPT/raw/main/images/intro.png) | [[Github](https://github.com/huawei-noah/Pretrained-IPT)] |
