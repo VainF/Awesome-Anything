@@ -44,6 +44,7 @@ Contributions are welcome!
 | Titile & Authors | Intro | Useful Links |
 |:----|  :----: | :---:|
 | [**Generalized Decoding for Pixel, Image and Language**](https://arxiv.org/abs/2212.11270) <br> *Xueyan Zou, Zi-Yi Dou, Jianwei Yang, Zhe Gan, Linjie Li, Chunyuan Li, Xiyang Dai, Harkirat Behl, Jianfeng Wang, Lu Yuan, Nanyun Peng, Lijuan Wang, Yong Jae Lee, Jianfeng Gao* <br><br> [[**X-Decoder (Project)**](https://github.com/microsoft/X-Decoder/)] | ![intro](https://user-images.githubusercontent.com/11957155/210801832-c9143c42-ef65-4501-95a5-0d54749dcc52.gif)  | [[Github]](https://github.com/microsoft/X-Decoder/) <br> [[Page]](https://x-decoder-vl.github.io) <br> [[Demo]](https://huggingface.co/spaces/xdecoder/Demo)  |
+| [**Pre-Trained Image Processing Transformer**]() <br> *Chen, Hanting and Wang, Yunhe and Guo, Tianyu and Xu, Chang and Deng, Yiping and Liu, Zhenhua and Ma, Siwei and Xu, Chunjing and Xu, Chao and Gao, Wen* <br><br> [[**Pretrained-IPT (Project)**](https://github.com/huawei-noah/Pretrained-IPT)] | ![intro](https://github.com/huawei-noah/Pretrained-IPT/raw/main/images/intro.png) | [[Github](https://github.com/huawei-noah/Pretrained-IPT)] |
 
 ## AnyX
 
