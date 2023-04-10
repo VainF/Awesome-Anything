@@ -5,6 +5,12 @@ A curated list of **general AI methods for Anything**: AnyObject, AnyGeneration,
 
 Contributions are welcome!
 
+- [Awesome-Anything](#awesome-anything)
+  - [AnyObject](#anyobject)
+  - [AnyGeneration](#anygeneration)
+  - [AnyModel](#anymodel)
+  - [AnyTask](#anytask)
+  
 ## AnyObject
 
 | Title & Authors | Intro | Useful Links |
