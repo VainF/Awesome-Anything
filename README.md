@@ -3,7 +3,7 @@
 
 A curated list of **general AI methods for Anything**: AnyClass, AnyObject, AnyGeneration, AnyModel, etc. Contributions are welcome!
 
-## Anything
+## AnyObject
 
 | Title & Authors | Intro | Useful Links |
 |:----|  :----: | :---:|
@@ -12,8 +12,14 @@ A curated list of **general AI methods for Anything**: AnyClass, AnyObject, AnyG
 | [[**SegGPT (Project)**](https://github.com/baaivision/Painter)] <br> [**SegGPT: Segmenting Everything In Context**](https://arxiv.org/abs/2304.03284) <br> *Xinlong Wang, Xiaosong Zhang, Yue Cao, Wen Wang, Chunhua Shen, Tiejun Huang* | <img width="903" alt="image" src="https://user-images.githubusercontent.com/18592211/230897227-c797f375-a44d-4536-a06b-41f0d9f4dbc4.png"> | [Github](https://github.com/baaivision/Painter) |
 | [[**segment-anything-video (Project)**](https://github.com/kadirnar/segment-anything-video)] <br> Kadir Nar | ![intro](https://github.com/kadirnar/segment-anything-pip/releases/download/v0.2.2/metaseg_demo.gif)  | [[Github](https://github.com/kadirnar/segment-anything-video)] |
 | [[**segment-any-moving (Prject)**](https://github.com/achalddave/segment-any-moving)] <br> [**Towards Segmenting Anything That Moves**](https://arxiv.org/abs/1902.03715) <br> *Achal Dave, Pavel Tokmakov, Deva Ramanan* | [<img src="http://www.achaldave.com/projects/anything-that-moves/videos/c95cd17749.gif" width="32%" />](http://www.achaldave.com/projects/anything-that-moves/videos/c95cd17749.mp4)<img src="http://www.achaldave.com/projects/anything-that-moves/videos/e0bdb5dfae.gif" width="32%" /> | [[Github](https://github.com/achalddave/segment-any-moving)] |
+
+
+## AnyGeneration
+| Title & Authors | Intro | Useful Links |
+|:----|  :----: | :---:|
 | [[**Stable-Diffusion (Project)**](https://github.com/CompVis/stable-diffusion)] <br> [**High-Resolution Image Synthesis with Latent Diffusion Models**](https://arxiv.org/abs/2112.10752) <br> *Robin Rombach and Andreas Blattmann and Dominik Lorenz and Patrick Esser and Björn Ommer* | ![intro](https://r2.stablediffusionweb.com/images/stable-diffusion-demo-2.webp) | [[Github](https://github.com/CompVis/stable-diffusion)] <br> [[Page](https://stablediffusionweb.com/)] <br> [[Demo](https://stablediffusionweb.com/#demo)] |
 | [[**ControlNet (Project)**](https://github.com/lllyasviel/ControlNet)] <br> [**Adding Conditional Control to Text-to-Image Diffusion Models**](https://arxiv.org/abs/2302.05543) <br> *Lvmin Zhang, Maneesh Agrawala* | ![intro](https://huggingface.co/datasets/YiYiXu/test-doc-assets/resolve/main/blog_post_cell_16_output_1.jpeg) | [[Github](https://github.com/lllyasviel/ControlNet)] <br>  [[Demo](https://huggingface.co/spaces/hysts/ControlNet)] |
+
 
 ## AnyModel
 | Titile & Authors | Intro | Useful Links |
