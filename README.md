@@ -1,5 +1,5 @@
 # Awesome-Anything
-[![Awesome](https://img.shields.io/badge/Awesome-%F0%9F%98%8E-blue.svg)](https://github.com/sindresorhus/awesome)
+[![Awesome Anything](https://img.shields.io/badge/Awesome-Anything-blue)](https://github.com/topics/awesome)
 
 A curated list of general AI methods for **Anything**: AnyClass, AnyObject, AnyGeneration, AnyModel, etc. Contributions are welcome!
 
