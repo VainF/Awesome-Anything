@@ -5,7 +5,7 @@ A curated list of **general AI methods for Anything**: AnyClass, AnyObject, AnyG
 
 ## Anything
 
-| Titile & Authors | Intro | Useful Links |
+| Title & Authors | Intro | Useful Links |
 |:----|  :----: | :---:|
 | [**Segment Anything**](https://arxiv.org/abs/2304.02643) <br> *Alexander Kirillov, Eric Mintun, Nikhila Ravi, Hanzi Mao, Chloe Rolland, Laura Gustafson, Tete Xiao, Spencer Whitehead, Alex Berg, Wan-Yen Lo, Piotr Dollar, Ross Girshick* | ![intro](https://github.com/facebookresearch/segment-anything/blob/main/assets/masks2.jpg?raw=true) | [[Github](https://github.com/facebookresearch/segment-anything)] <br> [[Page](https://segment-anything.com/)] <br> [[Demo](https://segment-anything.com/demo)] |
 | [[**Grounded-SAM (Project)**](https://github.com/IDEA-Research/Grounded-Segment-Anything)] <br> [**Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection**](https://arxiv.org/abs/2303.05499) <br> *Shilong Liu and Zhaoyang Zeng and Tianhe Ren and Feng Li and Hao Zhang and Jie Yang and Chunyuan Li and Jianwei Yang and Hang Su and Jun Zhu and Lei Zhang* | ![intro](https://github.com/IDEA-Research/Grounded-Segment-Anything/raw/main/assets/grounded_sam_demo3_demo4.png) | [[Github](https://github.com/IDEA-Research/Grounded-Segment-Anything)] <br> [[Demo]](https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/zero-shot-object-detection-with-grounding-dino.ipynb) |
