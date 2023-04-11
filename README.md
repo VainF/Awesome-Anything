@@ -59,5 +59,5 @@ A curated list of **general AI methods for Anything**: AnyObject, AnyGeneration,
 
 
 <div align="center">
-<img width="50%" src="https://api.star-history.com/svg?repos=VainF/Awesome-Anything&type=Date"></img>
+<img src="https://api.star-history.com/svg?repos=VainF/Awesome-Anything&type=Date"></img>
 <div>
