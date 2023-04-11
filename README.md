@@ -10,8 +10,8 @@ A [**paper list**](paper.md) is available!
 - [Awesome-Anything](#awesome-anything)
   - [AnyObject](#anyobject) - Segmentation, Detection, Classification, etc.
   - [AnyGeneration](#anygeneration) - Text-to-Image Generation, Editing, Inpainting.
-  - [AnyModel](#anymodel) - Network Pruning, Network Quantization, Model Reuse.
   - [AnyTask](#anytask) - LLM Controller + ModelZoo, General Decoding, Multi-Task Learning.
+  - [AnyModel](#anymodel) - Network Pruning, Network Quantization, Model Reuse.
   - [AnyX](#anyx) - Other Topics.
   
 ## AnyObject
@@ -43,15 +43,6 @@ A [**paper list**](paper.md) is available!
 | [**IEA: Image Editing Anything (Project)**](https://github.com/feizc/IEA) <br> *Zhengcong Fei*  | ![intro](https://user-images.githubusercontent.com/37614046/230707537-206c0714-de32-41cd-a277-203fd57cd300.png) | [[Github](https://github.com/feizc/IEA)] |
 | [**EditAnything (Project)**](https://github.com/sail-sg/EditAnything) <br> *Shanghua Gao, Pan Zhou*  | ![intro](https://github.com/sail-sg/EditAnything/raw/main/images/edit_sample1.jpg) | [[Github](https://github.com/sail-sg/EditAnything)] |
 
-
-## AnyModel
-| Title & Authors | Intro | Useful Links |
-|:----|  :----: | :---:|
-| [**DepGraph: Towards Any Structural Pruning**](https://arxiv.org/abs/2301.12900) <br> *Gongfan Fang, Xinyin Ma, Mingli Song, Michael Bi Mi, Xinchao Wang* <br> CVPR'23 <br><br> [[**Torch-Pruning (Project)**](https://github.com/VainF/Torch-Pruning)] | ![intro](https://github.com/VainF/Torch-Pruning/raw/master/assets/intro.png) | [[Github](https://github.com/VainF/Torch-Pruning)] <br> [[Demo](https://colab.research.google.com/drive/1TRvELQDNj9PwM-EERWbF3IQOyxZeDepp?usp=sharing)] |
-| [**MQBench: Towards Reproducible and Deployable Model Quantization Benchmark**](https://arxiv.org/abs/2111.03759) <br> *Yuhang Li and Mingzhu Shen and Jian Ma and Yan Ren and Mingxin Zhao and Qi Zhang and Ruihao Gong and Fengwei Yu and Junjie Yan* <br> NeurIPS'21 <br><br> [[**MQBench (Project)**](https://github.com/ModelTC/MQBench)] | ![intro](http://mqbench.tech/assets/img/overview.png) | [[Github](https://github.com/ModelTC/MQBench)] <br> [[Page](http://mqbench.tech/)] |
-| [**OTOv2: Automatic, Generic, User-Friendly**](https://openreview.net/pdf?id=7ynoX1ojPMt) <br> *Tianyi Chen, Luming Liang, Tianyu Ding, Ilya Zharkov* <br> ICLR'23 <br><br> [[**Only Train Once (Project)**](https://github.com/tianyic/only_train_once)] | ![intro](https://user-images.githubusercontent.com/8930611/230513048-e07b09a2-b29b-49ad-a47f-52630337ab2a.png) | [[Github](https://github.com/tianyic/only_train_once)] |
-| [**Deep Model Reassembly**](https://arxiv.org/abs/2210.17409) <br> *Xingyi Yang, Daquan Zhou, Songhua Liu, Jingwen Ye, Xinchao Wang* <br> NeurIPS'22 <br><br> [[**Deep Model Reassembly (Project)**](https://github.com/Adamdad/DeRy)] <br>  | ![intro](https://github.com/Adamdad/DeRy/raw/main/assets/pipeline.png) | [[Github](https://github.com/Adamdad/DeRy)] <br> [[Page](https://adamdad.github.io/dery/)] |
-
 ## AnyTask
 | Title & Authors | Intro | Useful Links |
 |:----|  :----: | :---:|
@@ -61,6 +52,14 @@ A [**paper list**](paper.md) is available!
 | [**Pre-Trained Image Processing Transformer**]() <br> *Chen, Hanting and Wang, Yunhe and Guo, Tianyu and Xu, Chang and Deng, Yiping and Liu, Zhenhua and Ma, Siwei and Xu, Chunjing and Xu, Chao and Gao, Wen* <br> CVPR'21 <br><br> [[**Pretrained-IPT (Project)**](https://github.com/huawei-noah/Pretrained-IPT)] | ![intro](https://github.com/huawei-noah/Pretrained-IPT/raw/main/images/intro.png) | [[Github](https://github.com/huawei-noah/Pretrained-IPT)] |
 | [**OpenAGI: When LLM Meets Domain Experts**](https://arxiv.org/pdf/2304.04370.pdf) <br> *Yingqiang Ge, Wenyue Hua, Jianchao Ji, Juntao Tan, Shuyuan Xu, Yongfeng Zhang* <br><br> [[**OpenAGI (Project)**](https://github.com/agiresearch/OpenAGI)] | ![intro](https://github.com/agiresearch/OpenAGI/raw/main/image/pipeline.png) | [Github](https://github.com/agiresearch/OpenAGI) |
 
+
+## AnyModel
+| Title & Authors | Intro | Useful Links |
+|:----|  :----: | :---:|
+| [**DepGraph: Towards Any Structural Pruning**](https://arxiv.org/abs/2301.12900) <br> *Gongfan Fang, Xinyin Ma, Mingli Song, Michael Bi Mi, Xinchao Wang* <br> CVPR'23 <br><br> [[**Torch-Pruning (Project)**](https://github.com/VainF/Torch-Pruning)] | ![intro](https://github.com/VainF/Torch-Pruning/raw/master/assets/intro.png) | [[Github](https://github.com/VainF/Torch-Pruning)] <br> [[Demo](https://colab.research.google.com/drive/1TRvELQDNj9PwM-EERWbF3IQOyxZeDepp?usp=sharing)] |
+| [**MQBench: Towards Reproducible and Deployable Model Quantization Benchmark**](https://arxiv.org/abs/2111.03759) <br> *Yuhang Li and Mingzhu Shen and Jian Ma and Yan Ren and Mingxin Zhao and Qi Zhang and Ruihao Gong and Fengwei Yu and Junjie Yan* <br> NeurIPS'21 <br><br> [[**MQBench (Project)**](https://github.com/ModelTC/MQBench)] | ![intro](http://mqbench.tech/assets/img/overview.png) | [[Github](https://github.com/ModelTC/MQBench)] <br> [[Page](http://mqbench.tech/)] |
+| [**OTOv2: Automatic, Generic, User-Friendly**](https://openreview.net/pdf?id=7ynoX1ojPMt) <br> *Tianyi Chen, Luming Liang, Tianyu Ding, Ilya Zharkov* <br> ICLR'23 <br><br> [[**Only Train Once (Project)**](https://github.com/tianyic/only_train_once)] | ![intro](https://user-images.githubusercontent.com/8930611/230513048-e07b09a2-b29b-49ad-a47f-52630337ab2a.png) | [[Github](https://github.com/tianyic/only_train_once)] |
+| [**Deep Model Reassembly**](https://arxiv.org/abs/2210.17409) <br> *Xingyi Yang, Daquan Zhou, Songhua Liu, Jingwen Ye, Xinchao Wang* <br> NeurIPS'22 <br><br> [[**Deep Model Reassembly (Project)**](https://github.com/Adamdad/DeRy)] <br>  | ![intro](https://github.com/Adamdad/DeRy/raw/main/assets/pipeline.png) | [[Github](https://github.com/Adamdad/DeRy)] <br> [[Page](https://adamdad.github.io/dery/)] |
 
 ## AnyX
 | Title & Authors | Intro | Useful Links |
