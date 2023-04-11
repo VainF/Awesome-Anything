@@ -28,6 +28,8 @@ A curated list of **general AI methods for Anything**: AnyObject, AnyGeneration,
 | [**Prompt-Segment-Anything (Project)**](https://github.com/RockeyCoss/Prompt-Segment-Anything) <br> *Anurag Ghosh*  | ![intro](https://github.com/RockeyCoss/Prompt-Segment-Anything/raw/master/assets/example1.jpg) | [[Github](https://github.com/RockeyCoss/Prompt-Segment-Anything)]|
 | [**SAM-RBox (Project)**](https://github.com/Li-Qingyun/sam-mmrotate) <br> *Qingyun Li*  | ![intro](https://user-images.githubusercontent.com/79644233/230732578-649086b4-7720-4450-9e87-25873bec07cb.png) | [[Github](https://github.com/Li-Qingyun/sam-mmrotate)] |
 
+
+
 ## AnyGeneration
 | Title & Authors | Intro | Useful Links |
 |:----|  :----: | :---:|
@@ -36,6 +38,8 @@ A curated list of **general AI methods for Anything**: AnyObject, AnyGeneration,
 | [**GigaGAN: Large-scale GAN for Text-to-Image Synthesis**](https://arxiv.org/abs/2303.05511) <br> *Minguk Kang, Jun-Yan Zhu, Richard Zhang, Jaesik Park, Eli Shechtman, Sylvain Paris, Taesung Park* <br> CVPR'23 | <img alt="image" src="https://user-images.githubusercontent.com/18592211/230898538-84da51ee-f686-422d-9892-c1c47ab10b75.png"></img> | [[Page](https://mingukkang.github.io/GigaGAN/)] |
 | [**Inpaint-Anything: Segment Anything Meets Image Inpainting (Project)**](https://github.com/geekyutao/Inpaint-Anything) <br> *Tao Yu*  | ![intro](https://github.com/geekyutao/Inpaint-Anything/raw/main/example/framework.png) | [[Github](https://github.com/geekyutao/Inpaint-Anything)] |
 | [**IEA: Image Editing Anything (Project)**](https://github.com/feizc/IEA) <br> *Zhengcong Fei*  | ![intro](https://user-images.githubusercontent.com/37614046/230707537-206c0714-de32-41cd-a277-203fd57cd300.png) | [[Github](https://github.com/feizc/IEA)] |
+| [**EditAnything (Project)**](https://github.com/sail-sg/EditAnything) <br> *Shanghua Gao, Pan Zhou*  | ![intro](https://github.com/sail-sg/EditAnything/raw/main/images/edit_sample1.jpg) | [[Github](https://github.com/sail-sg/EditAnything)] |
+
 
 ## AnyModel
 | Title & Authors | Intro | Useful Links |
