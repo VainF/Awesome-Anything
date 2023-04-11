@@ -10,8 +10,8 @@ A [**paper list**](paper.md) is available!
 - [Awesome-Anything](#awesome-anything)
   - [AnyObject](#anyobject) - Segmentation, Detection, Classification, etc.
   - [AnyGeneration](#anygeneration) - Text-to-Image Generation, Editing, Inpainting.
-  - [AnyModel](#anymodel) - Modelzoo, Network Pruning, Network Quantization.
-  - [AnyTask](#anytask) - Multi Task Learning.
+  - [AnyModel](#anymodel) - Network Pruning, Network Quantization, Model Reuse.
+  - [AnyTask](#anytask) - LLM Controller + ModelZoo, General Decoding, Multi-Task Learning.
   - [AnyX](#anyx) - Other Topics.
   
 ## AnyObject
@@ -47,19 +47,20 @@ A [**paper list**](paper.md) is available!
 ## AnyModel
 | Title & Authors | Intro | Useful Links |
 |:----|  :----: | :---:|
-| [**HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace**](https://arxiv.org/abs/2303.17580) <br> *Yongliang Shen, Kaitao Song, Xu Tan, Dongsheng Li, Weiming Lu, Yueting Zhuang* <br> Preprint'23 <br><br> [[**Jarvis (Project)**](https://github.com/microsoft/JARVIS)] |  <img  src="https://github.com/microsoft/JARVIS/raw/main/assets/overview.jpg"><img> | [[Github](https://github.com/microsoft/JARVIS)] <br> [[Demo](https://huggingface.co/spaces/microsoft/HuggingGPT)] |
-| [**TaskMatrix.AI: Completing Tasks by Connecting Foundation Models with Millions of APIs**](https://arxiv.org/abs/2303.16434) <br> *Yaobo Liang, Chenfei Wu, Ting Song, Wenshan Wu, Yan Xia, Yu Liu, Yang Ou, Shuai Lu, Lei Ji, Shaoguang Mao, Yun Wang, Linjun Shou, Ming Gong, Nan Duan* Preprint'23 | ![intro](https://github.com/microsoft/visual-chatgpt/raw/main/assets/overview.png) | [[Github](https://github.com/microsoft/visual-chatgpt/tree/main/TaskMatrix.AI)] |
 | [**DepGraph: Towards Any Structural Pruning**](https://arxiv.org/abs/2301.12900) <br> *Gongfan Fang, Xinyin Ma, Mingli Song, Michael Bi Mi, Xinchao Wang* <br> CVPR'23 <br><br> [[**Torch-Pruning (Project)**](https://github.com/VainF/Torch-Pruning)] | ![intro](https://github.com/VainF/Torch-Pruning/raw/master/assets/intro.png) | [[Github](https://github.com/VainF/Torch-Pruning)] <br> [[Demo](https://colab.research.google.com/drive/1TRvELQDNj9PwM-EERWbF3IQOyxZeDepp?usp=sharing)] |
 | [**MQBench: Towards Reproducible and Deployable Model Quantization Benchmark**](https://arxiv.org/abs/2111.03759) <br> *Yuhang Li and Mingzhu Shen and Jian Ma and Yan Ren and Mingxin Zhao and Qi Zhang and Ruihao Gong and Fengwei Yu and Junjie Yan* <br> NeurIPS'21 <br><br> [[**MQBench (Project)**](https://github.com/ModelTC/MQBench)] | ![intro](http://mqbench.tech/assets/img/overview.png) | [[Github](https://github.com/ModelTC/MQBench)] <br> [[Page](http://mqbench.tech/)] |
 | [**OTOv2: Automatic, Generic, User-Friendly**](https://openreview.net/pdf?id=7ynoX1ojPMt) <br> *Tianyi Chen, Luming Liang, Tianyu Ding, Ilya Zharkov* <br> ICLR'23 <br><br> [[**Only Train Once (Project)**](https://github.com/tianyic/only_train_once)] | ![intro](https://user-images.githubusercontent.com/8930611/230513048-e07b09a2-b29b-49ad-a47f-52630337ab2a.png) | [[Github](https://github.com/tianyic/only_train_once)] |
 | [**Deep Model Reassembly**](https://arxiv.org/abs/2210.17409) <br> *Xingyi Yang, Daquan Zhou, Songhua Liu, Jingwen Ye, Xinchao Wang* <br> NeurIPS'22 <br><br> [[**Deep Model Reassembly (Project)**](https://github.com/Adamdad/DeRy)] <br>  | ![intro](https://github.com/Adamdad/DeRy/raw/main/assets/pipeline.png) | [[Github](https://github.com/Adamdad/DeRy)] <br> [[Page](https://adamdad.github.io/dery/)] |
-| [**OpenAGI: When LLM Meets Domain Experts**](https://arxiv.org/pdf/2304.04370.pdf) <br> *Yingqiang Ge, Wenyue Hua, Jianchao Ji, Juntao Tan, Shuyuan Xu, Yongfeng Zhang* <br><br> [[**OpenAGI (Project)**](https://github.com/agiresearch/OpenAGI)] | ![intro](https://github.com/agiresearch/OpenAGI/raw/main/image/pipeline.png) | [Github](https://github.com/agiresearch/OpenAGI) |
 
 ## AnyTask
 | Title & Authors | Intro | Useful Links |
 |:----|  :----: | :---:|
+| [**HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace**](https://arxiv.org/abs/2303.17580) <br> *Yongliang Shen, Kaitao Song, Xu Tan, Dongsheng Li, Weiming Lu, Yueting Zhuang* <br> Preprint'23 <br><br> [[**Jarvis (Project)**](https://github.com/microsoft/JARVIS)] |  <img  src="https://github.com/microsoft/JARVIS/raw/main/assets/overview.jpg"><img> | [[Github](https://github.com/microsoft/JARVIS)] <br> [[Demo](https://huggingface.co/spaces/microsoft/HuggingGPT)] |
+| [**TaskMatrix.AI: Completing Tasks by Connecting Foundation Models with Millions of APIs**](https://arxiv.org/abs/2303.16434) <br> *Yaobo Liang, Chenfei Wu, Ting Song, Wenshan Wu, Yan Xia, Yu Liu, Yang Ou, Shuai Lu, Lei Ji, Shaoguang Mao, Yun Wang, Linjun Shou, Ming Gong, Nan Duan* Preprint'23 | ![intro](https://github.com/microsoft/visual-chatgpt/raw/main/assets/overview.png) | [[Github](https://github.com/microsoft/visual-chatgpt/tree/main/TaskMatrix.AI)] |
 | [**Generalized Decoding for Pixel, Image and Language**](https://arxiv.org/abs/2212.11270) <br> *Xueyan Zou, Zi-Yi Dou, Jianwei Yang, Zhe Gan, Linjie Li, Chunyuan Li, Xiyang Dai, Harkirat Behl, Jianfeng Wang, Lu Yuan, Nanyun Peng, Lijuan Wang, Yong Jae Lee, Jianfeng Gao* <br> CVPR'23 <br><br> [[**X-Decoder (Project)**](https://github.com/microsoft/X-Decoder/)] | ![intro](https://user-images.githubusercontent.com/11957155/210801832-c9143c42-ef65-4501-95a5-0d54749dcc52.gif)  | [[Github](https://github.com/microsoft/X-Decoder/)] <br> [[Page](https://x-decoder-vl.github.io)] <br> [[Demo](https://huggingface.co/spaces/xdecoder/Demo)]  |
 | [**Pre-Trained Image Processing Transformer**]() <br> *Chen, Hanting and Wang, Yunhe and Guo, Tianyu and Xu, Chang and Deng, Yiping and Liu, Zhenhua and Ma, Siwei and Xu, Chunjing and Xu, Chao and Gao, Wen* <br> CVPR'21 <br><br> [[**Pretrained-IPT (Project)**](https://github.com/huawei-noah/Pretrained-IPT)] | ![intro](https://github.com/huawei-noah/Pretrained-IPT/raw/main/images/intro.png) | [[Github](https://github.com/huawei-noah/Pretrained-IPT)] |
+| [**OpenAGI: When LLM Meets Domain Experts**](https://arxiv.org/pdf/2304.04370.pdf) <br> *Yingqiang Ge, Wenyue Hua, Jianchao Ji, Juntao Tan, Shuyuan Xu, Yongfeng Zhang* <br><br> [[**OpenAGI (Project)**](https://github.com/agiresearch/OpenAGI)] | ![intro](https://github.com/agiresearch/OpenAGI/raw/main/image/pipeline.png) | [Github](https://github.com/agiresearch/OpenAGI) |
+
 
 ## AnyX
 | Title & Authors | Intro | Useful Links |
