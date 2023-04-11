@@ -10,6 +10,7 @@ A curated list of **general AI methods for Anything**: AnyObject, AnyGeneration,
   - [AnyGeneration](#anygeneration)
   - [AnyModel](#anymodel)
   - [AnyTask](#anytask)
+  - [AnyX](#anyx)
   
 ## AnyObject
 
