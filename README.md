@@ -25,6 +25,7 @@ A curated list of **general AI methods for Anything**: AnyObject, AnyGeneration,
 | [**Segment Anything and Name It (Project)**](https://github.com/Cheems-Seminar/segment-anything-and-name-it) <br> *Shoufa Chen* | ![intro](https://github.com/Cheems-Seminar/segment-anything-and-name-it/raw/main/assets/teaser.png) | [[Github](https://github.com/Cheems-Seminar/segment-anything-and-name-it)]
 | [**GroundedSAM-zero-shot-anomaly-detection (Project)**](https://github.com/caoyunkang/GroundedSAM-zero-shot-anomaly-detection) <br> *Yunkang Cao*  | <img width="677" alt="image" src="https://user-images.githubusercontent.com/18592211/231068964-ddeae0ea-4e83-40d6-b73e-2811d46f808d.png"> | [[Github](https://github.com/caoyunkang/GroundedSAM-zero-shot-anomaly-detection)] |
 | [**Segment Anything Labelling Tool (SALT) (Project)**](https://github.com/anuragxel/salt) <br> *Anurag Ghosh*  | ![intro](https://github.com/anuragxel/salt/raw/main/assets/how-it-works.gif) | [[Github](https://github.com/caoyunkang/GroundedSAM-zero-shot-anomaly-detection)] |
+| [**Prompt-Segment-Anything (Project)**](https://github.com/RockeyCoss/Prompt-Segment-Anything) <br> *Anurag Ghosh*  | ![intro](https://github.com/RockeyCoss/Prompt-Segment-Anything/raw/master/assets/example1.jpg) | [[Github](https://github.com/RockeyCoss/Prompt-Segment-Anything)] |
 
 
 ## AnyGeneration
