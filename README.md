@@ -29,7 +29,7 @@ A curated list of **general AI methods for Anything**: AnyObject, AnyGeneration,
 | [**Prompt-Segment-Anything (Project)**](https://github.com/RockeyCoss/Prompt-Segment-Anything) <br> *Anurag Ghosh*  | ![intro](https://github.com/RockeyCoss/Prompt-Segment-Anything/raw/master/assets/example1.jpg) | [[Github](https://github.com/RockeyCoss/Prompt-Segment-Anything)]|
 | [**SAM-RBox (Project)**](https://github.com/Li-Qingyun/sam-mmrotate) <br> *Qingyun Li*  | ![intro](https://user-images.githubusercontent.com/79644233/230732578-649086b4-7720-4450-9e87-25873bec07cb.png) | [[Github](https://github.com/Li-Qingyun/sam-mmrotate)] |
 |  [**VISAM (Project)**](https://github.com/BingfengYan/VISAM) <br> *Feng Yan, Weixin Luo, Yujie Zhong, Yiyang Gan, Lin Ma* | ![intro](https://raw.githubusercontent.com/BingfengYan/MOTSAM/main/tmp.gif) | [[Github](https://github.com/BingfengYan/VISAM)] <br> |
-| [**Segment Anything Prompt (Project)**](https://github.com/jinfagang/SegAnythingPro) <br> *MagicSource* | ![intro](https://camo.githubusercontent.com/b03bccaeeff2e563a81c3bc303eb9958ecd4a08b27f3919b297fcda024ebeeba/68747470733a2f2f6a6968756c61622e636f6d2f676f646c792f666765722f2d2f7261772f6d61696e2f696d616765732f323032332f30342f31315f31315f32335f34335f303239363061383162333966393365303964653664393330656639386339352e706e67) | [[Github](https://github.com/jinfagang/SegAnythingPro)] |
+
 
 ## AnyGeneration
 | Title & Authors | Intro | Useful Links |
@@ -40,7 +40,7 @@ A curated list of **general AI methods for Anything**: AnyObject, AnyGeneration,
 | [**Inpaint-Anything: Segment Anything Meets Image Inpainting (Project)**](https://github.com/geekyutao/Inpaint-Anything) <br> *Tao Yu*  | ![intro](https://github.com/geekyutao/Inpaint-Anything/raw/main/example/framework.png) | [[Github](https://github.com/geekyutao/Inpaint-Anything)] |
 | [**IEA: Image Editing Anything (Project)**](https://github.com/feizc/IEA) <br> *Zhengcong Fei*  | ![intro](https://user-images.githubusercontent.com/37614046/230707537-206c0714-de32-41cd-a277-203fd57cd300.png) | [[Github](https://github.com/feizc/IEA)] |
 | [**EditAnything (Project)**](https://github.com/sail-sg/EditAnything) <br> *Shanghua Gao, Pan Zhou*  | ![intro](https://github.com/sail-sg/EditAnything/raw/main/images/edit_sample1.jpg) | [[Github](https://github.com/sail-sg/EditAnything)] |
-
+| [**Segment Anything Prompt (Project)**](https://github.com/jinfagang/SegAnythingPro) <br> *MagicSource* | ![intro](https://camo.githubusercontent.com/b03bccaeeff2e563a81c3bc303eb9958ecd4a08b27f3919b297fcda024ebeeba/68747470733a2f2f6a6968756c61622e636f6d2f676f646c792f666765722f2d2f7261772f6d61696e2f696d616765732f323032332f30342f31315f31315f32335f34335f303239363061383162333966393365303964653664393330656639386339352e706e67) | [[Github](https://github.com/jinfagang/SegAnythingPro)] |
 
 ## AnyModel
 | Title & Authors | Intro | Useful Links |
