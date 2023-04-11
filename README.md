@@ -62,5 +62,5 @@ A curated list of **general AI methods for Anything**: AnyObject, AnyGeneration,
 ## AnyX
 | Title & Authors | Intro | Useful Links |
 |:----|  :----: | :---:|
-| [**Caption Anything (Project)**](https://github.com/ttengwang/Caption-Anything) <br> *Jinrui Zhang*  | ![intro](https://github.com/ttengwang/Caption-Anything/blob/main/Image/demo1.png)  | [[Github](https://github.com/ttengwang/Caption-Anything)] |
+| [**Caption Anything (Project)**](https://github.com/ttengwang/Caption-Anything) <br> *Teng Wang, Jinrui Zhang, Junjie Fei, Yunlong Tang, Zhe Li, Mingqi Gao*  | ![intro](https://github.com/ttengwang/Caption-Anything/blob/main/Image/demo1.png)  | [[Github](https://github.com/ttengwang/Caption-Anything)] |
 ...
