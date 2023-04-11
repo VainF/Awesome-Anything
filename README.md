@@ -27,7 +27,7 @@ A curated list of **general AI methods for Anything**: AnyObject, AnyGeneration,
 | [**Segment Anything Labelling Tool (SALT) (Project)**](https://github.com/anuragxel/salt) <br> *Anurag Ghosh*  | ![intro](https://github.com/anuragxel/salt/raw/main/assets/how-it-works.gif) | [[Github](https://github.com/caoyunkang/GroundedSAM-zero-shot-anomaly-detection)] |
 | [**Prompt-Segment-Anything (Project)**](https://github.com/RockeyCoss/Prompt-Segment-Anything) <br> *Anurag Ghosh*  | ![intro](https://github.com/RockeyCoss/Prompt-Segment-Anything/raw/master/assets/example1.jpg) | [[Github](https://github.com/RockeyCoss/Prompt-Segment-Anything)]|
 | [**SAM-RBox (Project)**](https://github.com/Li-Qingyun/sam-mmrotate) <br> *Qingyun Li*  | ![intro](https://user-images.githubusercontent.com/79644233/230732578-649086b4-7720-4450-9e87-25873bec07cb.png) | [[Github](https://github.com/Li-Qingyun/sam-mmrotate)] |
-|  [**VISAM**]() <br> *Feng Yan, Weixin Luo* <br> Preprint'23 <br><br> [[**MOT+SAM**]() | ![intro](https://raw.githubusercontent.com/BingfengYan/MOTSAM/main/tmp.gif) | [[Github](https://github.com/BingfengYan/VISAM)] <br>|
+|  [**VISAM**](https://github.com/BingfengYan/VISAM) <br> *Feng Yan, Weixin Luo* <br> Preprint'23 <br><br> [[**MOT+SAM**]() | ![intro](https://raw.githubusercontent.com/BingfengYan/MOTSAM/main/tmp.gif) | [[Github](https://github.com/BingfengYan/VISAM)] <br>|
 
 ## AnyGeneration
 | Title & Authors | Intro | Useful Links |
