@@ -6,11 +6,11 @@ A curated list of **general AI methods for Anything**: AnyObject, AnyGeneration,
 [Contributions](https://github.com/VainF/Awesome-Anything/pulls) are welcome!
 
 - [Awesome-Anything](#awesome-anything)
-  - [AnyObject](#anyobject)
-  - [AnyGeneration](#anygeneration)
-  - [AnyModel](#anymodel)
-  - [AnyTask](#anytask)
-  - [AnyX](#anyx)
+  - [AnyObject](#anyobject) - Segmentation, Detection, Classification, etc.
+  - [AnyGeneration](#anygeneration) - Controllable Generation
+  - [AnyModel](#anymodel) - Modelzoo, Network Pruning, Network Quantization
+  - [AnyTask](#anytask) - Multi Task Learning
+  - [AnyX](#anyx) - Other Topics.
   
 ## AnyObject
 
