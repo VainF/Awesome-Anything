@@ -1,6 +1,6 @@
 # Paper for Anything AI
 
-This is a paper list for Anything AI
+A paper list for Anything AI
 
 ## AnyObejct
 | Paper | First Author | Venue | Topic |
