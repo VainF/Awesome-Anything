@@ -35,6 +35,7 @@ A curated list of **general AI methods for Anything**: AnyObject, AnyGeneration,
 | [**Adding Conditional Control to Text-to-Image Diffusion Models**](https://arxiv.org/abs/2302.05543) <br> *Lvmin Zhang, Maneesh Agrawala* <br> Preprint'23 <br><br> [[**ControlNet (Project)**](https://github.com/lllyasviel/ControlNet)] | ![intro](https://huggingface.co/datasets/YiYiXu/test-doc-assets/resolve/main/blog_post_cell_16_output_1.jpeg) | [[Github](https://github.com/lllyasviel/ControlNet)] <br>  [[Demo](https://huggingface.co/spaces/hysts/ControlNet)] |
 | [**GigaGAN: Large-scale GAN for Text-to-Image Synthesis**](https://arxiv.org/abs/2303.05511) <br> *Minguk Kang, Jun-Yan Zhu, Richard Zhang, Jaesik Park, Eli Shechtman, Sylvain Paris, Taesung Park* <br> CVPR'23 | <img alt="image" src="https://user-images.githubusercontent.com/18592211/230898538-84da51ee-f686-422d-9892-c1c47ab10b75.png"></img> | [[Page](https://mingukkang.github.io/GigaGAN/)] |
 | [**Inpaint-Anything: Segment Anything Meets Image Inpainting (Project)**](https://github.com/geekyutao/Inpaint-Anything) <br> *Tao Yu*  | ![intro](https://github.com/geekyutao/Inpaint-Anything/raw/main/example/framework.png) | [[Github](https://github.com/geekyutao/Inpaint-Anything)] |
+| [**IEA: Image Editing Anything (Project)**](https://github.com/feizc/IEA) <br> *Zhengcong Fei*  | ![intro](https://user-images.githubusercontent.com/37614046/230707537-206c0714-de32-41cd-a277-203fd57cd300.png) | [[Github](https://github.com/feizc/IEA)] |
 
 ## AnyModel
 | Title & Authors | Intro | Useful Links |
