@@ -3,6 +3,8 @@
 
 A curated list of **general AI methods for Anything**: AnyObject, AnyGeneration, AnyModel, AnyTask, etc.
 
+A paper list is avaible at [paper](paper.md).
+
 [Contributions](https://github.com/VainF/Awesome-Anything/pulls) are welcome!
 
 - [Awesome-Anything](#awesome-anything)
