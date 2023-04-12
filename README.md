@@ -12,7 +12,7 @@ A [**paper list**](paper.md) is available!
   - [AnyGeneration](#anygeneration) - Text-to-Image Generation, Editing, Inpainting.
   - [AnyTask](#anytask) - LLM Controller + ModelZoo, General Decoding, Multi-Task Learning.
   - [AnyModel](#anymodel) - Network Pruning, Network Quantization, Model Reuse.
-  - [AnyX](#anyx) - Other Topics.
+  - [AnyX](#anyx) - Other Topics: Captioning, etc.
   
 ## AnyObject
 
