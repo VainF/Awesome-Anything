@@ -13,6 +13,7 @@ A [**paper list**](paper.md) is available!
   - [AnyTask](#anytask) - LLM Controller + ModelZoo, General Decoding, Multi-Task Learning.
   - [AnyModel](#anymodel) - Network Pruning, Network Quantization, Model Reuse.
   - [AnyX](#anyx) - Other Topics: Captioning, etc.
+  - [Paper List](#paper-list-for-anything-ai)
   
 ## AnyObject
 
