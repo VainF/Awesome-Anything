@@ -6,7 +6,7 @@ A curated list of **general AI methods for Anything**: AnyObject, AnyGeneration,
 [Contributions](https://github.com/VainF/Awesome-Anything/pulls) are welcome!
 
 - [Awesome-Anything](#awesome-anything)
-  - [AnyObject](#anyobject) - Segmentation, Detection, Classification, etc.
+  - [AnyObject](#anyobject) - Segmentation, Detection, Classification, Medical Image, OCR, etc.
   - [AnyGeneration](#anygeneration) - Text-to-Image Generation, Editing, Inpainting.
   - [AnyTask](#anytask) - LLM Controller + ModelZoo, General Decoding, Multi-Task Learning.
   - [AnyModel](#anymodel) - Network Pruning, Network Quantization, Model Reuse.
@@ -34,6 +34,7 @@ A curated list of **general AI methods for Anything**: AnyObject, AnyGeneration,
 | [![Star](https://img.shields.io/github/stars/aliaksandr960/segment-anything-eo.svg?style=social&label=Star)](https://github.com/aliaksandr960/segment-anything-eo) <br> [**Segment Anything EO tools: Earth observation tools for Meta AI Segment Anything (Project)**](https://github.com/aliaksandr960/segment-anything-eo) <br> *Aliaksandr Hancharenka, Alexander Chichigin*  | ![intro](https://github.com/aliaksandr960/segment-anything-eo/raw/main/title_sameo.png?raw=true) | [[Github](https://github.com/aliaksandr960/segment-anything-eo)] |
 | [![Star](https://img.shields.io/github/stars/JoOkuma/napari-segment-anything.svg?style=social&label=Star)](https://github.com/JoOkuma/napari-segment-anything) <br> [**napari-segment-anything: Segment Anything Model (SAM) native Qt UI (Project)**](https://github.com/JoOkuma/napari-segment-anything) <br> *Jordão Bragantini, Kyle I S Harrington, Ajinkya Kulkarni*  | <img width="658" alt="image" src="https://user-images.githubusercontent.com/18592211/231413725-661fb2a9-1951-40b1-8239-6896eeb7eb4c.png"> | [[Github](https://github.com/JoOkuma/napari-segment-anything)] |
 | [![Star](https://img.shields.io/github/stars/amine0110/SAM-Medical-Imaging.svg?style=social&label=Star)](https://github.com/amine0110/SAM-Medical-Imaging) <br> [**SAM-Medical-Imaging: Segment Anything Model (SAM) native Qt UI (Project)**](https://github.com/amine0110/SAM-Medical-Imaging) <br> *Jordão Bragantini, Kyle I S Harrington, Ajinkya Kulkarni*  | ![image](https://user-images.githubusercontent.com/18592211/231660993-4b7fbdc8-8f0d-44ab-b8f4-1b330f9168e5.png) | [[Github](https://github.com/amine0110/SAM-Medical-Imaging)] |
+| [![Star](https://img.shields.io/github/stars/yeungchenwa/OCR-SAM.svg?style=social&label=Star)](https://github.com/yeungchenwa/OCR-SAM) <br> [**OCR-SAM: Combining MMOCR with Segment Anything & Stable Diffusion. (Project)**](https://github.com/yeungchenwa/OCR-SAM) <br> *Jordão Bragantini, Kyle I S Harrington, Ajinkya Kulkarni*  | ![image](https://github.com/yeungchenwa/OCR-SAM/raw/main/imgs/sam_vis.png) | [[Github](https://github.com/yeungchenwa/OCR-SAM)] |
 
 ## AnyGeneration
 | Title & Authors | Intro | Useful Links |
