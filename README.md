@@ -36,6 +36,8 @@ A curated list of **general AI methods for Anything**: AnyObject, AnyGeneration,
 | [![Star](https://img.shields.io/github/stars/amine0110/SAM-Medical-Imaging.svg?style=social&label=Star)](https://github.com/amine0110/SAM-Medical-Imaging) <br> [**SAM-Medical-Imaging: Segment Anything Model (SAM) native Qt UI (Project)**](https://github.com/amine0110/SAM-Medical-Imaging) <br> *Jordão Bragantini, Kyle I S Harrington, Ajinkya Kulkarni*  | ![image](https://user-images.githubusercontent.com/18592211/231660993-4b7fbdc8-8f0d-44ab-b8f4-1b330f9168e5.png) | [[Github](https://github.com/amine0110/SAM-Medical-Imaging)] |
 | [![Star](https://img.shields.io/github/stars/yeungchenwa/OCR-SAM.svg?style=social&label=Star)](https://github.com/yeungchenwa/OCR-SAM) <br> [**OCR-SAM: Combining MMOCR with Segment Anything & Stable Diffusion. (Project)**](https://github.com/yeungchenwa/OCR-SAM) <br> *Jordão Bragantini, Kyle I S Harrington, Ajinkya Kulkarni*  | ![image](https://github.com/yeungchenwa/OCR-SAM/raw/main/imgs/sam_vis.png) | [[Github](https://github.com/yeungchenwa/OCR-SAM)] |
 
+<br><br>
+
 ## AnyGeneration
 | Title & Authors | Intro | Useful Links |
 |:----|  :----: | :---:|
@@ -49,6 +51,7 @@ A curated list of **general AI methods for Anything**: AnyObject, AnyGeneration,
 | [![Star](https://img.shields.io/github/stars/Curt-Park/segment-anything-with-clip.svg?style=social&label=Star)](https://github.com/Curt-Park/segment-anything-with-clip) <br> [**Segment Anything with Clip (Project)**](https://github.com/Curt-Park/segment-anything-with-clip) <br> *Jinwoo Park*  | ![intro](https://user-images.githubusercontent.com/14961526/230437084-79ef6e02-a254-421e-bd4c-32e87415c623.png) | [[Github](https://github.com/Curt-Park/segment-anything-with-clip)] |
 | [![Star](https://img.shields.io/github/stars/showlab/Image2Paragraph.svg?style=social&label=Star)](https://github.com/showlab/Image2Paragraph) <br>[**Image2Paragraph:Transform Image into Unique Paragraph (Project)**](https://github.com/showlab/Image2Paragraph) <br> *Jinpeng Wang* | ![intro](https://github.com/showlab/Image2Paragraph/raw/main/output/2_result.png) | [Github](https://github.com/showlab/Image2Paragraph) |
 
+<br><br>
 
 ## AnyTask
 | Title & Authors | Intro | Useful Links |
@@ -59,8 +62,7 @@ A curated list of **general AI methods for Anything**: AnyObject, AnyGeneration,
 | [![Star](https://img.shields.io/github/stars/huawei-noah/Pretrained-IPT.svg?style=social&label=Star)](https://github.com/huawei-noah/Pretrained-IPT) <br>  [**Pre-Trained Image Processing Transformer**]() <br> *Chen, Hanting and Wang, Yunhe and Guo, Tianyu and Xu, Chang and Deng, Yiping and Liu, Zhenhua and Ma, Siwei and Xu, Chunjing and Xu, Chao and Gao, Wen* <br> CVPR'21 <br><br> [[**Pretrained-IPT (Project)**](https://github.com/huawei-noah/Pretrained-IPT)] | ![intro](https://github.com/huawei-noah/Pretrained-IPT/raw/main/images/intro.png) | [[Github](https://github.com/huawei-noah/Pretrained-IPT)] |
 | [![Star](https://img.shields.io/github/stars/agiresearch/OpenAGI.svg?style=social&label=Star)](https://github.com/agiresearch/OpenAGI) <br>[**OpenAGI: When LLM Meets Domain Experts**](https://arxiv.org/pdf/2304.04370.pdf) <br> *Yingqiang Ge, Wenyue Hua, Jianchao Ji, Juntao Tan, Shuyuan Xu, Yongfeng Zhang* <br><br> [[**OpenAGI (Project)**](https://github.com/agiresearch/OpenAGI)] | ![intro](https://github.com/agiresearch/OpenAGI/raw/main/image/pipeline.png) | [Github](https://github.com/agiresearch/OpenAGI) |
 
-
-
+<br><br>
 
 ## AnyModel
 | Title & Authors | Intro | Useful Links |
@@ -70,11 +72,15 @@ A curated list of **general AI methods for Anything**: AnyObject, AnyGeneration,
 | [![Star](https://img.shields.io/github/stars/tianyic/only_train_once.svg?style=social&label=Star)](https://github.com/tianyic/only_train_once) <br> [**OTOv2: Automatic, Generic, User-Friendly**](https://openreview.net/pdf?id=7ynoX1ojPMt) <br> *Tianyi Chen, Luming Liang, Tianyu Ding, Ilya Zharkov* <br> ICLR'23 <br><br> [[**Only Train Once (Project)**](https://github.com/tianyic/only_train_once)] | ![intro](https://user-images.githubusercontent.com/8930611/230513048-e07b09a2-b29b-49ad-a47f-52630337ab2a.png) | [[Github](https://github.com/tianyic/only_train_once)] |
 | [![Star](https://img.shields.io/github/stars/Adamdad/DeRy.svg?style=social&label=Star)](https://github.com/Adamdad/DeRy) <br> [**Deep Model Reassembly**](https://arxiv.org/abs/2210.17409) <br> *Xingyi Yang, Daquan Zhou, Songhua Liu, Jingwen Ye, Xinchao Wang* <br> NeurIPS'22 <br><br> [[**Deep Model Reassembly (Project)**](https://github.com/Adamdad/DeRy)] <br>  | ![intro](https://github.com/Adamdad/DeRy/raw/main/assets/pipeline.png) | [[Github](https://github.com/Adamdad/DeRy)] <br> [[Page](https://adamdad.github.io/dery/)] |
 
+<br><br>
+
 ## AnyX
 | Title & Authors | Intro | Useful Links |
 |:----|  :----: | :---:|
 | [![Star](https://img.shields.io/github/stars/ttengwang/Caption-Anything.svg?style=social&label=Star)](https://github.com/ttengwang/Caption-Anything) <br> [**Caption Anything (Project)**](https://github.com/ttengwang/Caption-Anything) <br> *Teng Wang, Jinrui Zhang, Junjie Fei, Yunlong Tang, Zhe Li, Mingqi Gao*  | ![intro](https://github.com/ttengwang/Caption-Anything/blob/main/Image/demo1.png)  | [[Github](https://github.com/ttengwang/Caption-Anything)] |
 ...
+
+<br><br>
 
 # Paper List for Anything AI
 
