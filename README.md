@@ -78,7 +78,7 @@ A curated list of **general AI methods for Anything**: AnyObject, AnyGeneration,
 ## AnyX
 | Title & Authors | Intro | Useful Links |
 |:----|  :----: | :---:|
-| [![Star](https://img.shields.io/github/stars/ttengwang/Caption-Anything.svg?style=social&label=Star)](https://github.com/ttengwang/Caption-Anything) <br> [**Caption Anything (Project)**](https://github.com/ttengwang/Caption-Anything) <br> *Teng Wang, Jinrui Zhang, Junjie Fei, Yunlong Tang, Zhe Li, Mingqi Gao*  | ![intro](https://github.com/ttengwang/Caption-Anything/blob/main/Image/demo1.png)  | [[Github](https://github.com/ttengwang/Caption-Anything)] |
+| [![Star](https://img.shields.io/github/stars/ttengwang/Caption-Anything.svg?style=social&label=Star)](https://github.com/ttengwang/Caption-Anything) <br> [**Caption Anything (Project)**](https://github.com/ttengwang/Caption-Anything) <br> *Teng Wang, Jinrui Zhang, Junjie Fei, Yunlong Tang, Zhe Li, Mingqi Gao*  | ![intro](https://github.com/ttengwang/Caption-Anything/blob/main/Image/demo1.png)  | [[Github](https://github.com/ttengwang/Caption-Anything)] <br> [[Demo](https://huggingface.co/spaces/TencentARC/Caption-Anything)] |
 | [![Star](https://img.shields.io/github/stars/showlab/Image2Paragraph.svg?style=social&label=Star)](https://github.com/showlab/Image2Paragraph) <br>[**Image2Paragraph:Transform Image into Unique Paragraph (Project)**](https://github.com/showlab/Image2Paragraph) <br> *Jinpeng Wang* | ![intro](https://github.com/showlab/Image2Paragraph/raw/main/output/2_result.png) | [Github](https://github.com/showlab/Image2Paragraph) |
 ...
 
