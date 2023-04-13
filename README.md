@@ -49,7 +49,7 @@ A curated list of **general AI methods for Anything**: AnyObject, AnyGeneration,
 | [![Star](https://img.shields.io/github/stars/sail-sg/EditAnything.svg?style=social&label=Star)](https://github.com/sail-sg/EditAnything) <br> [**EditAnything (Project)**](https://github.com/sail-sg/EditAnything) <br> *Shanghua Gao, Pan Zhou*  | ![intro](https://github.com/sail-sg/EditAnything/raw/main/images/edit_sample1.jpg) | [[Github](https://github.com/sail-sg/EditAnything)] |
 | [![Star](https://img.shields.io/github/stars/continue-revolution/sd-webui-segment-anything.svg?style=social&label=Star)](https://github.com/continue-revolution/sd-webui-segment-anything) <br> [**Segment Anything for Stable Diffusion Webui (Project)**](https://github.com/continue-revolution/sd-webui-segment-anything) <br> *Chengsong Zhang*  | <img width="659" alt="image" src="https://user-images.githubusercontent.com/18592211/231410895-eac4c4b6-ee61-487b-9333-8dcd1befc610.png"> | [[Github](https://github.com/continue-revolution/sd-webui-segment-anything)] |
 | [![Star](https://img.shields.io/github/stars/Curt-Park/segment-anything-with-clip.svg?style=social&label=Star)](https://github.com/Curt-Park/segment-anything-with-clip) <br> [**Segment Anything with Clip (Project)**](https://github.com/Curt-Park/segment-anything-with-clip) <br> *Jinwoo Park*  | ![intro](https://user-images.githubusercontent.com/14961526/230437084-79ef6e02-a254-421e-bd4c-32e87415c623.png) | [[Github](https://github.com/Curt-Park/segment-anything-with-clip)] |
-| [![Star](https://img.shields.io/github/stars/showlab/Image2Paragraph.svg?style=social&label=Star)](https://github.com/showlab/Image2Paragraph) <br>[**Image2Paragraph:Transform Image into Unique Paragraph (Project)**](https://github.com/showlab/Image2Paragraph) <br> *Jinpeng Wang* | ![intro](https://github.com/showlab/Image2Paragraph/raw/main/output/2_result.png) | [Github](https://github.com/showlab/Image2Paragraph) |
+
 
 <br><br>
 
@@ -78,6 +78,7 @@ A curated list of **general AI methods for Anything**: AnyObject, AnyGeneration,
 | Title & Authors | Intro | Useful Links |
 |:----|  :----: | :---:|
 | [![Star](https://img.shields.io/github/stars/ttengwang/Caption-Anything.svg?style=social&label=Star)](https://github.com/ttengwang/Caption-Anything) <br> [**Caption Anything (Project)**](https://github.com/ttengwang/Caption-Anything) <br> *Teng Wang, Jinrui Zhang, Junjie Fei, Yunlong Tang, Zhe Li, Mingqi Gao*  | ![intro](https://github.com/ttengwang/Caption-Anything/blob/main/Image/demo1.png)  | [[Github](https://github.com/ttengwang/Caption-Anything)] |
+| [![Star](https://img.shields.io/github/stars/showlab/Image2Paragraph.svg?style=social&label=Star)](https://github.com/showlab/Image2Paragraph) <br>[**Image2Paragraph:Transform Image into Unique Paragraph (Project)**](https://github.com/showlab/Image2Paragraph) <br> *Jinpeng Wang* | ![intro](https://github.com/showlab/Image2Paragraph/raw/main/output/2_result.png) | [Github](https://github.com/showlab/Image2Paragraph) |
 ...
 
 <br><br>
