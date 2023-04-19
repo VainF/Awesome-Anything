@@ -118,6 +118,7 @@ A paper list for Anything AI
 | [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2112.10752) | Robin Rombach | CVPR'22 | Text-to-Image Generation |
 | [Adding Conditional Control to Text-to-Image Diffusion Models](https://arxiv.org/abs/2302.05543) | Lvmin Zhang | Preprint'23 | Controlllable Generation |
 | [GigaGAN: Large-scale GAN for Text-to-Image Synthesis](https://arxiv.org/abs/2303.05511) | Minguk Kang | CVPR'23 | Large-scale GAN |
+| [Inpaint Anything: Segment Anything Meets Image Inpainting](https://arxiv.org/abs/2304.06790) | Tao Yu | Preprint'23 | Inpainting |
 
 ## AnyModel
 | Paper | First Author | Venue | Topic |
