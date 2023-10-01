@@ -48,7 +48,7 @@ A curated list of **general AI methods for Anything**: AnyObject, AnyGeneration,
 | [![Star](https://img.shields.io/github/stars/luminxu/Pose-for-Everything.svg?style=social&label=Star)](https://github.com/luminxu/Pose-for-Everything) <br> [**Pose for Everything: Towards Category-Agnostic Pose Estimation**](https://arxiv.org/abs/2207.10387) <br> *Lumin Xu\*, Sheng Jin\*, Wang Zeng, Wentao Liu, Chen Qian, Wanli Ouyang, Ping Luo, Xiaogang Wang* <br> > CUHK, SenseTime <br> > ECCV'22 Oral <br><br> [[**Pose-for-Everything (Project)**](https://github.com/luminxu/Pose-for-Everything)] | ![image](https://github.com/luminxu/Pose-for-Everything/blob/main/assets/intro.png) | [[Github](https://github.com/luminxu/Pose-for-Everything)]|
 | [![Star](https://img.shields.io/github/stars/Luodian/RelateAnything.svg?style=social&label=Star)](https://github.com/Luodian/RelateAnything) <br>[**Relate Anything Model (Project)**](https://github.com/Luodian/RelateAnything) <br> Zujin Guo*, Bo Li*, Jingkang Yang*, Zijian Zhou*, Ziwei Liu  <br> > MMLab@NTU <br> >  VisCom Lab, KCL/TongJi |  ![intro](https://github.com/Luodian/RelateAnything/raw/main/assets/soccer.png) | [Github](https://github.com/Luodian/RelateAnything) |
 | [![Star](https://img.shields.io/github/stars/Jun-CEN/SegmentAnyRGBD.svg?style=social&label=Star)](https://github.com/Jun-CEN/SegmentAnyRGBD) <br>[**SegmentAnyRGBD (Project)**](https://github.com/Jun-CEN/SegmentAnyRGBD) <br> Jun Cen, Yizheng Wu, Xingyi Li, Jingkang Yang, Yixuan Pei, Lingdong Kong <br> > Visual Intelligence Lab@HKUST, <br> > HUST, <br> > MMLab@NTU, <br> > Smiles Lab@XJTU, <br> > NUS |  ![intro](https://github.com/Jun-CEN/SegmentAnyRGBD/raw/main/resources/flowchart_3.png) | [Github](https://github.com/Jun-CEN/SegmentAnyRGBD) |
-| <br>[**Retrieve Any Object via Prompt-based Tracking**](https://arxiv.org/abs/2305.13495) <br> Pha Nguyen, Kha Gia Quach, Kris Kitani, Khoa Luu <br> > CVIU@UArk, <br> > PdActive Inc., <br> > RI@CMU |  ![intro](https://anonymo-user.github.io/images/type-to-track.png) | [[ArXiv](https://arxiv.org/abs/2305.13495)] <br> [[Demo (GIF)](https://anonymo-user.github.io/images/type-to-track.gif)]  |
+| <br>[**Retrieve Any Object via Prompt-based Tracking**](https://arxiv.org/abs/2305.13495) <br> Pha Nguyen, Kha Gia Quach, Kris Kitani, Khoa Luu <br> > CVIU@UArk, <br> > pdActive Inc., <br> > RI@CMU |  ![intro](https://anonymo-user.github.io/images/type-to-track.png) | [[ArXiv](https://arxiv.org/abs/2305.13495)] <br> [[Page](https://uark-cviu.github.io/Type-to-Track/)]  |
 
 
 <br><br>
@@ -127,7 +127,7 @@ A paper list for Anything AI
 | [SegGPT: Segmenting Everything In Context](https://arxiv.org/abs/2304.03284) | Xinlong Wang | Preprint'23 | Segmentation  |
 | [V3Det: Vast Vocabulary Visual Detection Dataset](https://arxiv.org/abs/2304.03752) | Jiaqi Wang | Preprint'23 | Dataset |
 | [Pose for Everything: Towards Category-Agnostic Pose Estimation](https://arxiv.org/abs/2207.10387) | Lumin Xu | ECCV'22 Oral | Pose |
-| [Type-to-Track: Retrieve Any Object via Prompt-based Tracking](https://arxiv.org/abs/2305.13495) | Pha Nguyen | Preprint'23 | Grounding+Tracking |
+| [Type-to-Track: Retrieve Any Object via Prompt-based Tracking](https://arxiv.org/abs/2305.13495) | Pha Nguyen | NeurIPS'23 | Grounding+Tracking |
 
 ## AnyGeneration
 | Paper | First Author | Venue | Topic |
