@@ -8,7 +8,7 @@ A curated list of **general AI methods for Anything**: AnyObject, AnyGeneration,
 
 - [Awesome-Anything](#awesome-anything)
   - [AnyObject](#anyobject) - Segmentation, Detection, Classification, Medical Image, OCR, Pose, etc.
-  - [AnyGeneration](#anygeneration) - Text-to-Image Generation, Editing, Inpainting, Style Transfer, etc.
+  - [AnyGeneration](#anygeneration) - Text-to-Image Generation, Editing, Inpainting, Style Transfer, Video Frame Interpolation, etc.
   - [Any3D](#any3d) - 3D Generation, Segmentation, etc.
   - [AnyModel](#anymodel) - Any Pruning, Any Quantization, Model Reuse.
   - [AnyTask](#anytask) - LLM Controller + ModelZoo, General Decoding, Multi-Task Learning.
